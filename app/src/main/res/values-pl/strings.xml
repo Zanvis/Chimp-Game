@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">L08_Piwowarski_62024_Chimp_Game2</string>
+    <string name="btnDrawap">Losuj</string>
+    <string name="btnGameResultap">Wynik gry</string>
+    <string name="btnHide">Ukryj</string>
+    <string name="btnNewGameap">Nowa Gra</string>
+    <string name="txtNumberOfColumns">Liczba Kolumn:</string>
+    <string name="txtNumberOfRows">Liczba Rzędów:</string>
+    <string name="txtWelcome">Witaj w</string>
+    <string name="txtCreator">Kreator Piwowarski</string>
+</resources>

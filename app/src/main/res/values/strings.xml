@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">L08_Piwowarski_62024_Chimp_Game2</string>
+    <string name="btnDrawap">Draw</string>
+    <string name="btnGameResultap">Game result</string>
+    <string name="btnHide">Hide</string>
+    <string name="btnNewGameap">New Game</string>
+    <string name="txtNumberOfColumns">Number of Columns:</string>
+    <string name="txtNumberOfRows">Number of Rows:</string>
+    <string-array name="numbers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string name="txtWelcome">Welcome to</string>
+    <string name="txtCreator">Creator Piwowarski</string>
+</resources>
